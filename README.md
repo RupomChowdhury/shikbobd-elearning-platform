@@ -1,6 +1,6 @@
 # SHIKBO-BD | E-Learning Platform of BD
 
-<p> <h5>ShikboBD is one of my projects.</h5> <br> It's all about connecting & discovering talents, inspiring people and impact lives with the best teaching and earning opportunities. ShikboBD is an online teaching marketplace, where instructors can create and upload their knowledge & make money online. It is also an E-Learning Platform to learn anything from anywhere from the best & Top rated Professionals and Freelancers! It has created earning opportunities for millions of instructors! </p>
+<p> <h5>ShikboBD is one of my projects.</h5> --- It's all about connecting & discovering talents, inspiring people and impact lives with the best teaching and earning opportunities. ShikboBD is an online teaching marketplace, where instructors can create and upload their knowledge & make money online. It is also an E-Learning Platform to learn anything from anywhere from the best & Top rated Professionals and Freelancers! It has created earning opportunities for millions of instructors! </p>
 
 ---
 
